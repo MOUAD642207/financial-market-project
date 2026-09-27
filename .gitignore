@@ -1,0 +1,45 @@
+# Environnement virtuel
+venv/
+venv_airflow/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variables d'environnement (SECRET)
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Backups
+backups/
+*.sql
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+
+# Airflow
+airflow-docker/logs/
+airflow-docker/plugins/__pycache__/

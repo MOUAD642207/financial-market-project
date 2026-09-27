@@ -1,0 +1,10 @@
+content = """streamlit
+plotly
+requests
+pandas
+"""
+
+with open("requirements.txt", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("OK - requirements.txt")

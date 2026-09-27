@@ -1,0 +1,22 @@
+# Core
+yfinance
+pandas
+numpy
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+loguru
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Dashboard
+streamlit
+plotly
+requests
+
+# Tests
+pytest
+httpx
