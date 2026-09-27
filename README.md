@@ -46,7 +46,7 @@ financial_market_project/
 ### Etapes
 
 1. Cloner le projet
-   git clone https://github.com/TON_USER/financial-market-project.git
+   git clone https://github.com/MOUAD642207/financial-market-project.git
    cd financial-market-project
 
 2. Creer l'environnement virtuel
