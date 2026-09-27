@@ -10,6 +10,15 @@ Yahoo Finance -> Python ETL -> PostgreSQL -> FastAPI -> Streamlit Dashboard
                               Apache Airflow
                               (Orchestration)
 
+
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.141-green)
+![Airflow](https://img.shields.io/badge/Airflow-2.10-red)
+![Docker](https://img.shields.io/badge/Docker-29-blue)
+                              
+
 ## Stack technique
 
 | Composant | Technologie |
